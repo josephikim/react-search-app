@@ -1,0 +1,21 @@
+.jumbotron{
+    float: none;
+    margin: 3rem auto;
+    background: royalblue;
+    color: #fff;
+}
+
+form input {
+	margin: 0 auto;
+	margin-bottom: 1rem;
+}
+
+form select {
+	display: block;
+	width: 100%;
+	margin-bottom: 1rem;
+}
+
+.form-control {
+  border: 1px solid #b8b8b8;
+}
